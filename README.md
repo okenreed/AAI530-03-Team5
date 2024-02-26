@@ -4,7 +4,7 @@ Data Analytics and Internet of Things (AAI-530-03) Group 5 Final Project Reposit
 # City Pulse Smart Parking: An IoT Device for Tracking Current and Predicted Parking Capacity  
 This project is a part of the AAI-530 course (Data Analytics and Internet of Things) in the Applied Artificial Intelligence Program at the University of San Diego (USD).  
 
--- Project Status: Active  
+-- Project Status: Finished  
 
 ## Dataset Source
 Parking Data Stream, Provided by City of Aarhus in Denmark from:  
