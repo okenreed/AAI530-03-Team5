@@ -17,7 +17,7 @@ git init
 git clone https://github.com/okenreed/AAI530-03-Team5-Final  
 
 ## Project Intro  
-The CityPulse Project is a representation of a forward-thinking initiative aiming to solve the increasing needs of growing smart cities. At its core, the CityPulse Project lies at the intersection and development of an adaptive and applicable framework designed for large-scale and real-time data streams stemming from the Internet of Things. This project seeks to overcome challenges in smart city development, and utilizes CityPulse’s Parking dataset which is a datastream of parking data provided by the city of Aarhus in Denmark. In particular, this project aims to provide users with both the current and predicted parking availability in a smart city, through the use of IoT and AI modeling.  
+The CityPulse Project is a representation of a forward-thinking initiative aiming to solve the increasing needs of growing smart cities. At its core, the CityPulse Project lies at the intersection and development of an adaptive and applicable framework designed for large-scale and real-time data streams stemming from the Internet of Things. This project seeks to overcome challenges in smart city development and utilizes CityPulse’s Parking dataset which is a datastream of parking data provided by the city of Aarhus in Denmark. In particular, this project aims to provide users with both the current and predicted parking availability in a smart city, through the use of IoT and AI modeling.  
 
 ## Tableau Public Dashboard  
 https://public.tableau.com/app/profile/msaiot.aai530/viz/IoTParkingGarage/DashboardUser  
