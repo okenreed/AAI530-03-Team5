@@ -8,7 +8,7 @@ This project is a part of the AAI-530 course (Data Analytics and Internet of Thi
 
 ## Dataset Source
 Parking Data Stream, Provided by City of Aarhus in Denmark from:  
-http://iot.ee.surrey.ac.uk:8080/datasets.html#pollution
+http://iot.ee.surrey.ac.uk:8080/datasets.html#parking
 
 ## Installation  
 To use this project, clone the repo on your device using the following commands:  
